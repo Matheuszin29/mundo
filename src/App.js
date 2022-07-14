@@ -2,8 +2,6 @@
 import {Polygon , MapContainer, TileLayer} from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import { statesData } from './countries';
-//import { cordinates } from './poligon';
-
 
 
 function App() {
